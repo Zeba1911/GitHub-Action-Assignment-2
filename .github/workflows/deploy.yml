@@ -42,7 +42,7 @@ jobs:
       - name: terraform plan
         run: |
           cd Module
-          terraform plan -var-file="Terraform.tfvars"
+          terraform plan -var-file="terraform.tfvars"
       - name: terraform apply
         run: |
           cd Module

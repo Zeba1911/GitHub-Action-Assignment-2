@@ -1,4 +1,4 @@
-Bucketname="Zeba"
+Bucketname="zeba"
 tag_name={
     Name="zeba1"
     Owner="Zeba.Tomar@cloudeq.com"
