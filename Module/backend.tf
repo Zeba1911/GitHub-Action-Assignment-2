@@ -1,6 +1,6 @@
  terraform {
     backend "s3"{
-        bucket="Zeba-tf-bucket"
+        Bucketname="zeba"
         key="terraform.tfstate"
     }
 }
