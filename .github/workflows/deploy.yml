@@ -7,7 +7,7 @@ on:
      required: true
 
 env:
-  BUCKET: S3_bucket
+  BUCKET: zeba
   TFSTATE_FILE: terraform.tfstate
   aws-region: ${{ github.event.inputs.region }}
   # aws-region: ap-south-1
